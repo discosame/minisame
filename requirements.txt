@@ -1,0 +1,4 @@
+discord.py[voice]>= 2.0.0
+numpy
+python-dotenv
+asyncpg
